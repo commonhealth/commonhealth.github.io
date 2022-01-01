@@ -1,0 +1,5 @@
+---
+layout: none
+permalink: .well-known/jwks.json
+---
+{"keys": [{"alg": "ES256", "crv": "P-256", "kty": "EC", "use": "sig", "x": "yeN20Zc66F3P-jxmdV7pgy4y3EVi95w7mbrAjROtOK4", "y": "TgjEQjfnTtjT5a51bYkYyyxJARTr3HEPRai-mTQxryU", "kid": "oRkyAk0fkjcHFncYgBU_KT1rYzreF43B7K738Y-E-VQ"}]}
